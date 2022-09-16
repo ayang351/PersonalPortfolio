@@ -1,2 +1,2 @@
 # PersonalPortfolio
- My personal portfolio website featuring notable projects and a bio.
+ This is a personal portfolio website that will feature projects that I've created along with a personal bio. 
